@@ -616,3 +616,9 @@ This consistency reflects that standardized maintenance procedures work well for
 2. Wagon shows slightly higher replacement emphasis (57%) compared to sedan (55%), suggesting that larger vehicles may have more complex systems where full replacement is preferred over partial adjustment.
 
 3. Specialty vehicles (convertible, hardtop) have limited sample sizes (n=11), making trends less reliable, but they show varied patterns with higher adjustment rates, likely due to the specialized nature of repairs needed for non-standard vehicle designs.
+
+```{r}
+print("modify file then push to remote repo by git command")
+```
+
+  
